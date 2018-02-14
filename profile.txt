@@ -3,3 +3,6 @@ Student Number: 2015-04990
 
 Name: Roxelle H. Cortes
 Student Number: 2015-05830
+
+Name: Jandrel Ian F. Valerio
+Student Number: 2014-73993
